@@ -2,9 +2,13 @@
 A Python-based Spotify Playlist Generator that creates a playlist of the Billboard Hot 100 songs for a specific date, using web scraping and the Spotify API. The project automates fetching song data and adding it to a user's Spotify playlist.
 
 Technologies Used:
+
 ✅ Python – Core programming language
+
 ✅ Spotipy (Spotify API) – For playlist creation and song fetching
+
 ✅ BeautifulSoup – For web scraping Billboard’s Hot 100 chart
+
 ✅ Requests – To fetch data from Billboard’s website
 
 Key Features:
