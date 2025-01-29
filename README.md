@@ -1,4 +1,4 @@
-## Spotify-Billboard-Playlist-Generator
+# Spotify-Billboard-Playlist-Generator
 A Python-based Spotify Playlist Generator that creates a playlist of the Billboard Hot 100 songs for a specific date, using web scraping and the Spotify API. The project automates fetching song data and adding it to a user's Spotify playlist.
 
 Technologies Used:
@@ -12,7 +12,7 @@ Technologies Used:
 ✅ Requests – To fetch data from Billboard’s website
 
 
-# Key Features:
+## Key Features:
 
 🔹 User Input for Date Selection – Fetches Billboard Hot 100 songs for a given date
 
@@ -24,7 +24,7 @@ Technologies Used:
 
 
 
-# Results & Impact:
+## Results & Impact:
 
 ✔ Automates playlist creation, saving time for music lovers
 
